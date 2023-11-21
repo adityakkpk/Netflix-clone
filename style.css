@@ -260,6 +260,7 @@ footer h5{
     color: white;
 }
 
+
 @media screen and (max-width: 1300px) {
     nav {
         max-width: 90vw;
@@ -302,6 +303,7 @@ footer h5{
     
     .hero> :nth-child(1){
         font-size: 32px;
+        line-height: 38px;
     }
     
     .hero> :nth-child(2){
@@ -310,6 +312,7 @@ footer h5{
     
     .hero> :nth-child(3){
         font-size: 18px;
+        line-height: 25px;
     }
     
     section.first > div :nth-child(1){
@@ -330,3 +333,4 @@ footer h5{
         gap: 10px;
     }
 }
+
